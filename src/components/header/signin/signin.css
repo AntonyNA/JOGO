@@ -1,0 +1,35 @@
+
+.dad{
+    
+    width: 100%;
+    height: 20ch;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50ch;
+    
+   
+}
+.child{
+    width:100%;
+    height: 20ch;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+
+}
+#signuup{
+    width: 50ch;
+}
+
+ body {
+     
+      background-image: url("https://images.hdqwalls.com/wallpapers/anime-girl-sweater-hoods-4k-p2.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;
+      background-attachment: fixed;     
+      
+    }

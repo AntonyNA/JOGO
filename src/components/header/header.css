@@ -1,0 +1,39 @@
+
+
+.logout{
+    float: left;
+    display: flex;
+    align-items: flex-end;
+    justify-content:flex-end;
+    border-radius:50%;
+    width: 16ch;
+    position: fixed;
+    right: 20px;
+    padding-top: 0.5ch;
+    
+}
+
+.header{
+    margin-top: -52px;
+    max-width:100%;
+    background-image: linear-gradient(to right, rgb(243, 134, 158) , rgb(22, 133, 237));
+    height: 16ch;
+    padding-left:1ch;
+    width: 100%;
+    position:fixed;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+
+
+.logo{
+    border-radius: 50%;
+    width: 16ch;
+    float: left;
+    position: fixed;
+    left: 10px;
+    padding-top: 0.5ch;
+
+}
+
